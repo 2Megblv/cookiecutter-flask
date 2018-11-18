@@ -1,4 +1,4 @@
-cookiecutter-flask (plus some stuff)
+cookiecutter-flask - Template
 ====================================
 
 A(nother) Flask template for cookiecutter.
